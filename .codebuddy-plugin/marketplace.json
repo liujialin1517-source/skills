@@ -18,6 +18,19 @@
       "homepage": "https://github.com/liujialin1517-source/skills",
       "repository": "https://github.com/liujialin1517-source/skills",
       "license": "MIT"
+    },
+    {
+      "name": "excel-merge",
+      "description": "Excel表格合并插件，将两个Excel文件的指定列合并到一个新Excel文件中。默认将第一个Excel的第一列和第二个Excel的第二列合并，输出到桌面。",
+      "version": "1.0.0",
+      "source": "./excel-merge",
+      "author": {
+        "name": "liujialin1517",
+        "url": "https://github.com/liujialin1517-source"
+      },
+      "homepage": "https://github.com/liujialin1517-source/skills",
+      "repository": "https://github.com/liujialin1517-source/skills",
+      "license": "MIT"
     }
   ]
 }

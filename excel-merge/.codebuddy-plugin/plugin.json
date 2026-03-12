@@ -1,0 +1,23 @@
+{
+  "name": "excel-merge",
+  "version": "1.0.0",
+  "description": "Excel表格合并插件,将两个Excel文件的指定列合并到一个新Excel文件中",
+  "author": {
+    "name": "liujialin1517",
+    "email": "liujialin1517@example.com"
+  },
+  "homepage": {
+    "url": "https://github.com/liujialin1517-source/skills",
+    "type": "github"
+  },
+  "license": "MIT",
+  "skills": [
+    "./SKILL.md"
+  ],
+  "dependencies": {
+    "python": ">=3.6",
+    "pip": [
+      "openpyxl>=3.0.0"
+    ]
+  }
+}
