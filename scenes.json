@@ -1,0 +1,11 @@
+{
+  "plugins": {
+    "desktop-file-counter@https___github_com_liujialin1517_source_skills": {
+      "name": "desktop-file-counter",
+      "displayName": "桌面文件计数",
+      "description": "统计桌面目录下所有文件的数量，包括子目录中的文件。当用户需要了解桌面有多少个文件时使用此技能。",
+      "version": "1.0.0",
+      "enabled": true
+    }
+  }
+}
