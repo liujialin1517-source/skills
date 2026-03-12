@@ -1,0 +1,17 @@
+{
+  "name": "desktop-file-counter",
+  "version": "1.0.0",
+  "description": "桌面文件计数插件，统计桌面目录下所有文件的数量、类型分布和总大小。",
+  "author": {
+    "name": "WorkBuddy User",
+    "email": ""
+  },
+  "homepage": {
+    "url": "",
+    "type": "local"
+  },
+  "license": "MIT",
+  "skills": [
+    "./SKILL.md"
+  ]
+}
