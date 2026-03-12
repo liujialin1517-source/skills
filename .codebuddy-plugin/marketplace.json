@@ -1,0 +1,23 @@
+{
+  "name": "https___github_com_liujialin1517_source_skills",
+  "description": "个人自定义插件市场",
+  "owner": {
+    "name": "liujialin1517",
+    "url": "https://github.com/liujialin1517-source"
+  },
+  "plugins": [
+    {
+      "name": "desktop-file-counter",
+      "description": "统计桌面目录下所有文件的数量，包括子目录中的文件。当用户需要了解桌面有多少个文件时使用此技能。",
+      "version": "1.0.0",
+      "source": "./desktop-file-counter",
+      "author": {
+        "name": "liujialin1517",
+        "url": "https://github.com/liujialin1517-source"
+      },
+      "homepage": "https://github.com/liujialin1517-source/skills",
+      "repository": "https://github.com/liujialin1517-source/skills",
+      "license": "MIT"
+    }
+  ]
+}
